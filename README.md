@@ -3,7 +3,9 @@
 Release da V01 do game Dino criado em JS para atender ao desafio de projeto do bootcamp da DIO.
 O projeto terá continuidade com releases futuras.
 
-Link para o github Pages: em breve!
+Link para o github Pages:
+
+https://cleberbarros1.github.io/jogo-do-dino-em-JS/
 
 
 
